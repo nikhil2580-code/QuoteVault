@@ -92,7 +92,7 @@ Light / Dark mode support
 
 User preferences stored locally
 
-🧠 AI Coding Approach & Workflow (Very Important)
+🧠 AI Coding Approach & Workflow 
 
 This project was built with AI-assisted development as a first-class workflow, exactly as requested in the assignment.
 
