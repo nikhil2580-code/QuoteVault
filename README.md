@@ -221,6 +221,8 @@ Real-world backend integration using Supabase
 Effective, transparent, and intentional AI usage
 
 Clean structure and readable code
+
+
 ![img1](https://github.com/user-attachments/assets/72f56483-461e-42c8-a872-acdf53528f3f)
 ![img2](https://github.com/user-attachments/assets/c05af13a-0cd6-4d2c-b0aa-2e60030f1a5d)
 ![img3](https://github.com/user-attachments/assets/18eb01c1-bf00-4501-9823-f5184c43da6f)
