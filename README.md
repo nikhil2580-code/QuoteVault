@@ -1,3 +1,4 @@
+
 📱 QuoteVault — AI-Powered Quote Discovery App
 
 QuoteVault is a full-featured quote discovery and collection mobile application built as part of the Mobile Application Developer Assignment.
@@ -220,3 +221,11 @@ Real-world backend integration using Supabase
 Effective, transparent, and intentional AI usage
 
 Clean structure and readable code
+![img1](https://github.com/user-attachments/assets/72f56483-461e-42c8-a872-acdf53528f3f)
+![img2](https://github.com/user-attachments/assets/c05af13a-0cd6-4d2c-b0aa-2e60030f1a5d)
+![img3](https://github.com/user-attachments/assets/18eb01c1-bf00-4501-9823-f5184c43da6f)
+![img4](https://github.com/user-attachments/assets/1ef8fc12-3ac8-426f-8560-43afd7cb2e4d)
+![img5](https://github.com/user-attachments/assets/c13e8fa4-78ef-4d76-bcfb-5b3b2964bf6c)
+![img6](https://github.com/user-attachments/assets/9bf20945-ade2-4884-8bf3-b3bda09c0022)
+![IMG_20260130_135442](https://github.com/user-attachments/assets/d268398b-dac1-4391-a19d-476a485c764c)
+
